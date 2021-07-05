@@ -68,10 +68,5 @@
         <span><b>Terminal</b></span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/terminal.svg">
       </td>
-    <tr valign="top">
-    <td width="20%" align="center">
-        <span><b>Java</b></span><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/java.svg">
-      </td>
   </tbody>
 </table>
