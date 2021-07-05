@@ -36,8 +36,8 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/babel.svg">
       </td>
       <td width="20%" align="center">
-        <span><b>React Native</b></span><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/webstorm-icon.svg">
+        <span><b>VS code</b></span><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
             <td width="20%" align="center">
         <span><b>Redux</b></span><br>
