@@ -50,15 +50,15 @@
     </tr>
     <tr valign="top">
     <td width="20%" align="center">
-        <span><b>NPM</b></span><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/npm.svg">
+        <span><b>Java</b></span><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/java.svg">
       </td>
       <td width="20%" align="center">
-        <span><b>VS code</b></span><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-              <td width="20%" align="center">
-        <span><b>Material UI</b></span><br>
-        <img height="64px" src="https://icons.veryicon.com/png/o/object/material_design_icons/material-ui-1.png">
+        <span><b>Kotlin</b></span><br>
+        <img height="64px" src="https://lh3.googleusercontent.com/proxy/KlIJa6Y3MqnOOveszN4yA2z6icTClf_2QEmTxXw2Gze4I4-JKk_R2DQ7l8pCXJEUm9oObvxm8NNwe_nLU55SjcSth1bqEW0Pvw">
+      <td width="20%" align="center">
+        <span><b>Android Studio</b></span><br>
+        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9RBDEOLiMkEGH4IMXKTUFh1TBxzzEF2X6ed30WEajj3UamQNNYR5ZhA0y5VrGnu_GrR8&usqp=CAU">
       </td>
         <td width="20%" align="center">
         <span><b>WebStorm</b></span><br>
@@ -73,21 +73,5 @@
         <span><b>Java</b></span><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/java.svg">
       </td>
-      <td width="20%" align="center">
-        <span><b>Kotlin</b></span><br>
-        <img height="64px" src="https://lh3.googleusercontent.com/proxy/KlIJa6Y3MqnOOveszN4yA2z6icTClf_2QEmTxXw2Gze4I4-JKk_R2DQ7l8pCXJEUm9oObvxm8NNwe_nLU55SjcSth1bqEW0Pvw">
-              <td width="20%" align="center">
-        <span><b>Material UI</b></span><br>
-        <img height="64px" src="https://miro.medium.com/max/1000/1*Kr52kpans_yMI8_9x0GKJQ.png">
-      </td>
-        <td width="20%" align="center">
-        <span><b>Android Studio</b></span><br>
-        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9RBDEOLiMkEGH4IMXKTUFh1TBxzzEF2X6ed30WEajj3UamQNNYR5ZhA0y5VrGnu_GrR8&usqp=CAU">
-      </td>
-       <td width="20%" align="center">
-        <span><b>Terminal</b></span><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/terminal.svg">
-      </td>
-
   </tbody>
 </table>
