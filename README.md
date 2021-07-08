@@ -55,7 +55,7 @@
       </td>
       <td width="20%" align="center">
         <span><b>Kotlin</b></span><br>
-        <img height="74px" src="https://lh3.googleusercontent.com/proxy/KlIJa6Y3MqnOOveszN4yA2z6icTClf_2QEmTxXw2Gze4I4-JKk_R2DQ7l8pCXJEUm9oObvxm8NNwe_nLU55SjcSth1bqEW0Pvw">
+        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9BW7FIoTPTx-s-XeQhqsUPvoNGgyq38Qm0A&usqp=CAU">
       <td width="22%" align="center">
         <span><b>Android Studio</b></span><br>
         <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9RBDEOLiMkEGH4IMXKTUFh1TBxzzEF2X6ed30WEajj3UamQNNYR5ZhA0y5VrGnu_GrR8&usqp=CAU">
