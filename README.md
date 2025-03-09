@@ -1,3 +1,22 @@
+# Привет! 👋  
+Я **[Ваше Имя]**, разработчик, который любит кодить и учиться новому!  
+
+## 🚀 Обо мне
+- 🔭 Работаю над интересными проектами  
+- 🌱 Учусь [технологиям]  
+- 📫 Свяжитесь со мной: [email@example.com](mailto:email@example.com)  
+
+## 🛠️ Стек технологий
+![HTML](https://img.shields.io/badge/-HTML-ff5733?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-2965f1?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)  
+...
+
+## 📊 GitHub Статистика
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=ВашGitHubНикнейм&show_icons=true&theme=dark)
+
+
+
 ![alt text](https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png "Описание будет тут")
 
 # Languages and Tools:
