@@ -88,9 +88,8 @@
 ---
 
 ### 📫 Контакты:
-- 💼 LinkedIn: [linkedin.com/in/akunov45](https://www.linkedin.com/in/akunov45/)
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 🐦 Twitter: [twitter.com/akunov45](https://twitter.com/akunov45)
+- 💼 LinkedIn: [linkedin.com/in/akunov45](https://www.linkedin.com/in/kutman/)
+- 📧 Email: [your-email@example.com](mailto:frontdevkg@gmail.com)
 
 ---
 
