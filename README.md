@@ -79,11 +79,26 @@
   </tbody>
 </table>
 
+### 🛠️ Технологии и инструменты:
+  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,tailwind,mui,antd,chakra,react,redux,flutter,java,git" />
+</p>
 
-## 🛠️ Стек технологий
-![HTML](https://img.shields.io/badge/-HTML-ff5733?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-2965f1?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)  
+---
 
-## 📊 GitHub Статистика
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=akunov45м&show_icons=true&theme=dark)
+### 📫 Контакты:
+- 💼 LinkedIn: [linkedin.com/in/akunov45](https://www.linkedin.com/in/akunov45/)
+- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+- 🐦 Twitter: [twitter.com/akunov45](https://twitter.com/akunov45)
+
+---
+
+### 📊 GitHub Статистика:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akunov45&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akunov45&theme=radical" height="160"/>
+</p>
+
+---
+⭐️ _Понравился мой профиль? Оставь звёздочку на репозиториях!_ 🚀
