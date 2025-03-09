@@ -114,6 +114,7 @@
 ---
 
 ### 📫 Контакты:
+- 📄 my CV [https://drive.google.com/file/d/1HcYY8zuzUQrB4PBPavCk_pCZLoGxL7SG/view?usp=sharing](https://drive.google.com/file/d/1HcYY8zuzUQrB4PBPavCk_pCZLoGxL7SG/view?usp=sharing)
 - 💼 LinkedIn: [linkedin.com/in/akunov45](https://www.linkedin.com/in/kutman/)
 - 📧 Email: [your-email@example.com](mailto:frontdevkg@gmail.com)
 
