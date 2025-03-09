@@ -1,4 +1,4 @@
-<h1 align="center">Привет! 👋 Я Akunov</h1>
+<h1 align="center">Привет! 👋 Я Кутман </h1>
 
 <p align="center">
   🚀 Frontend & Mobile Developer | 💡 Люблю создавать крутые UI/UX решения  
