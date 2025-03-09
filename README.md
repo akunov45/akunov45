@@ -110,6 +110,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=akunov45&show_icons=true&theme=radical" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akunov45&theme=radical" height="160"/>
 </p>
+
+---
+
 ### 📫 Контакты:
 - 💼 LinkedIn: [linkedin.com/in/akunov45](https://www.linkedin.com/in/kutman/)
 - 📧 Email: [your-email@example.com](mailto:frontdevkg@gmail.com)
