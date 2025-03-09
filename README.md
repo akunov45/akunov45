@@ -103,18 +103,6 @@
   </tbody>
 </table>
 
-### 🛠️ Технологии и инструменты:
-  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,tailwind,mui,antd,chakra,react,redux,flutter,java,git" />
-</p>
-
----
-
-### 📫 Контакты:
-- 💼 LinkedIn: [linkedin.com/in/akunov45](https://www.linkedin.com/in/kutman/)
-- 📧 Email: [your-email@example.com](mailto:frontdevkg@gmail.com)
-
 ---
 
 ### 📊 GitHub Статистика:
@@ -122,6 +110,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=akunov45&show_icons=true&theme=radical" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akunov45&theme=radical" height="160"/>
 </p>
+### 📫 Контакты:
+- 💼 LinkedIn: [linkedin.com/in/akunov45](https://www.linkedin.com/in/kutman/)
+- 📧 Email: [your-email@example.com](mailto:frontdevkg@gmail.com)
 
 ---
 ⭐️ _Понравился мой профиль? Оставь звёздочку на репозиториях!_ 🚀
