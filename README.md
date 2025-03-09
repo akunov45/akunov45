@@ -8,74 +8,98 @@
 
 ![alt text](https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png "Описание будет тут")
 
-# Languages and Tools:
+<h2>Languages and Tools:</h2>
 
 <table>
   <tbody width='100%'>
     <tr valign="top">
+      <td width="20%" align="center">
+        <span><b>Android</b></span><br>
+        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg">
       </td>
       <td width="20%" align="center">
-        <span><b>JavaScript</b></span><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+        <span><b>Angular</b></span><br>
+        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg">
       </td>
       <td width="20%" align="center">
-        <span><b>HTML</b></span><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="20%" align="center">
-        <span><b>CSS</b></span><br>
-        <img height="64px" src="https://i.pinimg.com/originals/eb/7e/20/eb7e20e646f5b7ec9ed4f8f78a5dee8f.png">
-      </td>
-      <td width="20%" align="center">
-        <span><b>ES6</b></span><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/es6.svg">
-      </td>
-      <td width="20%" align="center">
-        <span><b>GitHub</b></span><br>
-        <img height="64px" src="https://cdn.iconscout.com/icon/free/png-256/github-154-675675.png">
-      </td>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span><b>React</b></span><br>
-        <img height="64px" src="https://raw.githubusercontent.com/rexxars/react-hexagon/master/logo/react-hexagon.png">
-      </td>
-      <td width="20%" align="center">
-        <span><b>Babel</b></span><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/babel.svg">
-      </td>
-      <td width="20%" align="center">
-        <span><b>VS code</b></span><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-            <td width="20%" align="center">
-        <span><b>Redux</b></span><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
-      </td>
-       <td width="20%" align="center">
         <span><b>Bootstrap</b></span><br>
-        <img height="64px" src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-black.svg">
+        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
+      </td>
+      <td width="20%" align="center">
+        <span><b>Chart.js</b></span><br>
+        <img height="64px" src="https://www.chartjs.org/media/logo-title.svg">
+      </td>
+      <td width="20%" align="center">
+        <span><b>CoffeeScript</b></span><br>
+        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coffeescript/coffeescript-original-wordmark.svg">
       </td>
     </tr>
     <tr valign="top">
-    <td width="20%" align="center">
-        <span><b>Java</b></span><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/java.svg">
+      <td width="20%" align="center">
+        <span><b>CSS3</b></span><br>
+        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
       </td>
       <td width="20%" align="center">
-        <span><b>Kotlin</b></span><br>
-        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9BW7FIoTPTx-s-XeQhqsUPvoNGgyq38Qm0A&usqp=CAU">
-      <td width="22%" align="center">
-        <span><b>Android Studio</b></span><br>
-        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9RBDEOLiMkEGH4IMXKTUFh1TBxzzEF2X6ed30WEajj3UamQNNYR5ZhA0y5VrGnu_GrR8&usqp=CAU">
+        <span><b>Dart</b></span><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg">
       </td>
-        <td width="20%" align="center">
-        <span><b>WebStorm</b></span><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/webstorm-icon.svg">
+      <td width="20%" align="center">
+        <span><b>Figma</b></span><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
       </td>
-       <td width="20%" align="center">
-        <span><b>Terminal</b></span><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/terminal.svg">
+      <td width="20%" align="center">
+        <span><b>Firebase</b></span><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
       </td>
+      <td width="20%" align="center">
+        <span><b>Flutter</b></span><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span><b>Git</b></span><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+      </td>
+      <td width="20%" align="center">
+        <span><b>GraphQL</b></span><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg">
+      </td>
+      <td width="20%" align="center">
+        <span><b>Hive</b></span><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg">
+      </td>
+      <td width="20%" align="center">
+        <span><b>HTML5</b></span><br>
+        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+      </td>
+      <td width="20%" align="center">
+        <span><b>Java</b></span><br>
+        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span><b>JavaScript</b></span><br>
+        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+      </td>
+      <td width="20%" align="center">
+        <span><b>Jest</b></span><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
+      </td>
+      <td width="20%" align="center">
+        <span><b>Linux</b></span><br>
+        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+      </td>
+      <td width="20%" align="center">
+        <span><b>Next.js</b></span><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg">
+      </td>
+      <td width="20%" align="center">
+        <span><b>Postman</b></span><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+      </td>
+    </tr>
   </tbody>
 </table>
 
