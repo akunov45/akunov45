@@ -1,111 +1,56 @@
-<h1 align="center">Привет! 👋  </h1>
+<h1 align="center">Привет, я Кутман 👋</h1>
 
 <p align="center">
-  🚀 Я Frontend & Mobile Developer | 💡 Люблю создавать крутые UI/UX решения  
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F75C7E&center=true&vCenter=true&lines=Frontend+%26+Mobile+Developer;Backend+Enthusiast;UI%2FUX+Lover;Always+Learning+🚀" />
 </p>
 
 ---
 
-![alt text](https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png "Описание будет тут")
-
-<h2>Languages and Tools:</h2>
-
-<table>
-  <tbody width='100%'>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span><b>Android</b></span><br>
-        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg">
-      </td>
-      <td width="20%" align="center">
-        <span><b>Angular</b></span><br>
-        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg">
-      </td>
-      <td width="20%" align="center">
-        <span><b>Bootstrap</b></span><br>
-        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
-      </td>
-      <td width="20%" align="center">
-        <span><b>Chart.js</b></span><br>
-        <img height="64px" src="https://www.chartjs.org/media/logo-title.svg">
-      </td>
-      <td width="20%" align="center">
-        <span><b>CoffeeScript</b></span><br>
-        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coffeescript/coffeescript-original-wordmark.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span><b>CSS3</b></span><br>
-        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
-      </td>
-      <td width="20%" align="center">
-        <span><b>Dart</b></span><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg">
-      </td>
-      <td width="20%" align="center">
-        <span><b>Figma</b></span><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
-      </td>
-      <td width="20%" align="center">
-        <span><b>Firebase</b></span><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
-      </td>
-      <td width="20%" align="center">
-        <span><b>Flutter</b></span><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span><b>Git</b></span><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-      </td>
-      <td width="20%" align="center">
-        <span><b>GraphQL</b></span><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg">
-      </td>
-      <td width="20%" align="center">
-        <span><b>Hive</b></span><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg">
-      </td>
-      <td width="20%" align="center">
-        <span><b>HTML5</b></span><br>
-        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
-      </td>
-      <td width="20%" align="center">
-        <span><b>Java</b></span><br>
-        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span><b>JavaScript</b></span><br>
-        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-      </td>
-      <td width="20%" align="center">
-        <span><b>Jest</b></span><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
-      </td>
-      <td width="20%" align="center">
-        <span><b>Linux</b></span><br>
-        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-      </td>
-      <td width="20%" align="center">
-        <span><b>Next.js</b></span><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg">
-      </td>
-      <td width="20%" align="center">
-        <span><b>Postman</b></span><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
+### 🚀 Обо мне
+💡 Frontend & Mobile Developer, увлекаюсь **современными технологиями** и созданием удобных интерфейсов.
+⚡ Опыт в **React, Next.js, Flutter, Android (Kotlin/Java), Python, Strapi, Supabase, Firebase**.
+🎯 Постоянно учусь новому и люблю **строить продукты от идеи до релиза**.
 
 ---
 
-### 📊 GitHub Статистика:
+### 🛠️ Технологии и инструменты
+
+#### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=fff)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=fff)
+
+#### 📱 Mobile
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=fff)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=fff)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=fff)
+
+#### ⚙️ Backend & DB
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
+![Strapi](https://img.shields.io/badge/-Strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=fff)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=fff)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=fff)
+
+#### 🛠 Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=fff)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=fff)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=fff)
+![Asana](https://img.shields.io/badge/-Asana-273347?style=for-the-badge&logo=asana&logoColor=F06A6A)
+
+---
+
+### 📊 GitHub Статистика
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akunov45&show_icons=true&theme=radical" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akunov45&theme=radical" height="160"/>
@@ -113,10 +58,10 @@
 
 ---
 
-### 📫 Контакты:
-- 📄 my CV [https://drive.google.com/file/d/1HcYY8zuzUQrB4PBPavCk_pCZLoGxL7SG/view?usp=sharing](https://drive.google.com/file/d/1HcYY8zuzUQrB4PBPavCk_pCZLoGxL7SG/view?usp=sharing)
-- 💼 LinkedIn: [linkedin.com/in/akunov45](https://www.linkedin.com/in/kutman/)
-- 📧 Email: [your-email@example.com](mailto:frontdevkg@gmail.com)
+### 📫 Контакты
+- 📄 [Резюме](https://drive.google.com/file/d/1HcYY8zuzUQrB4PBPavCk_pCZLoGxL7SG/view?usp=sharing)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kutman/)
+- 📧 [frontdevkg@gmail.com](mailto:frontdevkg@gmail.com)
 
 ---
-⭐️ _Понравился мой профиль? Оставь звёздочку на репозиториях!_ 🚀
+
